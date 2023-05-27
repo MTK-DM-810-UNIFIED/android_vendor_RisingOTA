@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "weaponmasterjax",
+                        "oem": "Xiaomi",
+                        "device": "Redmi Note 11 5G",
+                        "filename": "risingOS-v1.1-Babylon-202305271326-everpal-GAPPS-COMMUNITY.zip",
+                        "download": "https://master.dl.sourceforge.net/project/ricedroid-oneplus-6-t/risingos/enchilada/risingOS-v1.0-Atlantis-202304251546-enchilada-GAPPS-OFFICIAL.zip",
+                        "timestamp": 1685193246,
+                        "md5": "2e15230f2df1b8c8f1c34f9da5aadf26",
+                        "sha256": "f744365415d63fd5f0b08a37a579f57dd86b8c66fec1400df6dc2ff6ddaf3c20",
+                        "size": 1323032857,
+                        "version": "v1.1-Babylon",
+                        "buildtype": "Weekly",
+                        "forum": "https://t.me/mt6833unified_chat",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/mt6833unified_chat",
+                        "dt": "https://github.com/weaponmasterjax/device_xiaomi_everpal",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
+}
