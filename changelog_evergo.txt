@@ -3,9 +3,9 @@ Build type: Monthly
 Device: Redmi Note 11 5G
 Device maintainers: weaponmasterjax
 
-==== 27 May, 2023 ====
+==== 29 May, 2023 ====
 
-RISINGOS v1.1 based source Sync 27/05/2023
+RISINGOS v1.1 based source Sync 29/05/2023
 
 - Improvement in device trees
 - Fixed wakeup sensor being used all the time
