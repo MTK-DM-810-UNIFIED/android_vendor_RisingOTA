@@ -1,28 +1,28 @@
 {
-        "response": [
-                {
-                        "maintainer": "weaponmasterjax",
-                        "oem": "Xiaomi",
-                        "device": "Redmi Note 11 5G",
-                        "filename": "risingOS-v1.1-Babylon-202305271644-everpal-GAPPS-COMMUNITY.zip",
-                        "download": "https://github.com/MTK-DM-810-UNIFIED/android_vendor_RisingOTA/releases/download/v2/risingOS-v1.1-Babylon-202305271644-everpal-GAPPS-COMMUNITY.zip",
-                        "timestamp": 1685205159,
-			"md5": "ac2c0efc2aff7a015e4d2b4449b6bde7",
-			"sha256": "2d4accd5ac85528b2adaf934185515821303733e915a446a594c31a0e850867b",
-                        "size": 1323027951,
-                        "version": "v1.1-Babylon",
-                        "buildtype": "Weekly",
-                        "forum": "https://t.me/mt6833unified_chat",
-                        "gapps": "",
-                        "firmware": "",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "https://github.com/weaponmasterjax/device_xiaomi_everpal/releases/download/v6.5.7.9/boot.img",
-                        "paypal": "",
-                        "telegram": "https://t.me/mt6833unified_chat",
-                        "dt": "https://github.com/weaponmasterjax/device_xiaomi_everpal",
-                        "common-dt": "",
-                        "kernel": ""
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "weaponmasterjax",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 11 5G",
+			"filename": "risingOS-v1.1-Babylon-202305280506-everpal-GAPPS-COMMUNITY.zip",
+			"download": "https://github.com/MTK-DM-810-UNIFIED/android_vendor_RisingOTA/releases/download/v2.1/risingOS-v1.1-Babylon-202305280506-everpal-GAPPS-COMMUNITY.zip",
+			"timestamp": 1685250295,
+			"md5": "1913e62000513d58355f923b81b00d2e",
+			"sha256": "e4fd5b1ae56d2ec80009ce36bfe669588226f467c1c701db46a4dff006e93737",
+			"size": 1323032107,
+			"version": "v1.1-Babylon",
+			"buildtype": "Weekly",
+			"forum": "https://t.me/mt6833unified_chat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://github.com/weaponmasterjax/device_xiaomi_everpal/releases/download/v6.5.7.9/boot.imgs",
+			"paypal": "",
+			"telegram": "https://t.me/mt6833unified_chat",
+			"dt": "https://github.com/weaponmasterjax/device_xiaomi_everpal",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
 }
