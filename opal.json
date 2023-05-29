@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "weaponmasterjax",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 11S",
+			"filename": "risingOS-v1.1-Babylon-202305281531-everpal-GAPPS-COMMUNITY.zip",
+			"download": "https://github.com/MTK-DM-810-UNIFIED/android_vendor_RisingOTA/releases/download/v3/risingOS-v1.1-Babylon-202305281531-everpal-GAPPS-COMMUNITY.zip",
+			"timestamp": 1685287878,
+			"md5": "3e08f8c184c1608caacb6cfaf1e60f94",
+			"sha256": "7f95611e2c2026217dfc00c0090127e59529d2a6930494616d314f78deea833b",
+			"size": 1323029451,
+			"version": "v1.1-Babylon",
+			"buildtype": "Weekly",
+			"forum": "https://t.me/mt6833unified_chat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://github.com/weaponmasterjax/device_xiaomi_everpal/releases/download/v6.5.7.9/boot.img",
+			"paypal": "https://www.patreon.com/mmtrt",
+			"telegram": "https://t.me/mt6833unified_chat",
+			"dt": "https://github.com/weaponmasterjax/device_xiaomi_everpal",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
